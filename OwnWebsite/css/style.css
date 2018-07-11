@@ -1,0 +1,51 @@
+#title-section {
+  text-align: center;
+  font-family: 'Raleway', Arial, sans-serif;
+  color: white;
+}
+header {
+  width: 100%;
+	height: 125px;
+	background-color: #A6FAC3;
+	text-align: center;
+	position: relative;
+	position: fixed;
+	top: 0;
+	overflow: hidden;
+}
+#extra-space {
+  color: #A6FAC3;
+}
+#home-p {
+  color: black;
+  position: absolute;
+  right: 45%;
+  top: 46% 
+}
+#button {
+  position: absolute;
+  right: 51%;
+  top:55%; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#button2 {
+  position: absolute;
+  right: 40%;
+  top:55%; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+body {
+  background-color: #F7F1F1;
+}
